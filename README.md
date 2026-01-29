@@ -48,7 +48,7 @@ Follow these steps to run the project locally:
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone 
+git clone https://github.com/harshu-rajput/HTML-Resume.git 
 ```
 ### 2. Open the project folder
 
